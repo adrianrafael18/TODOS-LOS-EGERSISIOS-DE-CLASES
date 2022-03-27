@@ -1,2 +1,1 @@
-# TODOS-LOS-EGERSISIOS-DE-CLASES
-CAMVIOS DE LA TIENA
+# 03.-Maquetaci-n-de-una-Tienda-con-HTML-y-CSS
